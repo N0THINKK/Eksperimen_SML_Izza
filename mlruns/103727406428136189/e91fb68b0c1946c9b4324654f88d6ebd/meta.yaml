@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Me%20Not/Kuliah/Belajar/dicoding/ML/SMSML_Izza/Membangun_model/mlruns/103727406428136189/e91fb68b0c1946c9b4324654f88d6ebd/artifacts
+end_time: 1784813674057
+entry_point_name: ''
+experiment_id: '103727406428136189'
+lifecycle_stage: active
+run_id: e91fb68b0c1946c9b4324654f88d6ebd
+run_name: logistic-regression-basic
+run_uuid: e91fb68b0c1946c9b4324654f88d6ebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784813664894
+status: 3
+tags: []
+user_id: PUSDATIN-06
