@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Me%20Not/Kuliah/Belajar/dicoding/ML/SMSML_Izza/Membangun_model/mlruns/458381782258461058/f4698ddcd18d4dd883353326828d9022/artifacts
+end_time: 1784843516752
+entry_point_name: ''
+experiment_id: '458381782258461058'
+lifecycle_stage: active
+run_id: f4698ddcd18d4dd883353326828d9022
+run_name: gradient-boosting-basic
+run_uuid: f4698ddcd18d4dd883353326828d9022
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1784843506936
+status: 3
+tags: []
+user_id: PUSDATIN-06

@@ -1,0 +1,9 @@
+digest: 16a36d46
+name: dataset
+profile: '{"features_shape": [905, 16], "features_size": 14480, "features_nbytes":
+  115840}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 16]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "PUSDATIN-06", "mlflow.source.name": "G:\\Me Not\\Kuliah\\Belajar\\dicoding\\ML\\SMSML_Izza\\Membangun_model\\modelling.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "0dbd46fb333c80944cb92df9a929344c4598358e"}}'
+source_type: code
